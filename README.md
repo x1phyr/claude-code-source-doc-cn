@@ -1,3 +1,6 @@
+# 说明
+
+这个库在能跑起来的基础上补充了详细说明文档，仅用于学习。
 
 # Restored Claude Code Source
 
